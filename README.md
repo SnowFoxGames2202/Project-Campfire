@@ -5,4 +5,5 @@
 -Lanterna agora precisa de estar com ela na hotbar e precionar F para funcionar  
 -Opções de dicas para ver teclas usaveis adicionado  
 -Um breve mapa adicionado  
--inventario na barraca para guardar itens adicionado, porem sem funcionalidade ainda  
+-Inventario na barraca para guardar itens adicionado, porem sem funcionalidade ainda  
+-Fogueira agora é alimentada apenas chegando perto dela e precionando a tecla 1 ou 2 do teclado numerico superior  
