@@ -8,3 +8,15 @@
 -Inventario na barraca para guardar itens adicionado, porem sem funcionalidade ainda  
 -Fogueira agora é alimentada apenas chegando perto dela e precionando a tecla 1 ou 2 do teclado numerico superior  
 -Chat adicionado durante a partida
+## Beta 0.2
+-Correções de bugs da verção anterior
+-Sistema de cheats simples adicionado
+-Agora é possivel enviar as mensagens precionando Enter
+-Itens adicionado:
+    Lanche(salgadinho),
+    Barra de cereal,
+-Maquina de lanches e refrigerante adicionado
+-Botão para sair do lobby adicionado
+-Agora o player só consegue correr com ai de 20 de energya e nn consegue andar se estiver com 0 de energia
+-Tela de Morte adicionando
+-Agora o player morre se a sanidade chegar a 0
