@@ -9,7 +9,7 @@
 -Fogueira agora é alimentada apenas chegando perto dela e precionando a tecla 1 ou 2 do teclado numerico superior  
 -Chat adicionado durante a partida
 ## Beta 0.2
--Correções de bugs da verção anterior
+-Correções de bugs da verção anterior    
 -Sistema de cheats simples adicionado    
 -Agora é possivel enviar as mensagens precionando Enter    
 -Itens adicionado:    
