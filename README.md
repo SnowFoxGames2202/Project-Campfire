@@ -22,4 +22,5 @@
 -Agora o player só consegue correr com ai de 20 de energya e nn consegue andar se estiver com 0 de energia    
 -Tela de Morte adicionando    
 -Agora o player morre se a sanidade chegar a 0    
--Animação para Bolsa adicionado
+-Animação para Bolsa adicionado    
+-Agora as arvores não desaparecem depois de cortadas e voltam a crescer
