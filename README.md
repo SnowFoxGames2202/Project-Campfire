@@ -15,6 +15,7 @@
 -Itens adicionado:    
 * Lanche(salgadinho),    
 * Barra de cereal
+* Isqueiro
     
 -Maquina de lanches e refrigerante adicionado    
 -Botão para sair do lobby adicionado    
