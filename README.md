@@ -23,5 +23,5 @@
 -Tela de Morte adicionando    
 -Agora o player morre se a sanidade chegar a 0    
 -Animação para Bolsa adicionado    
--Agora as arvores não desaparecem depois de cortadas e voltam a crescer
+-Agora as arvores não desaparecem depois de cortadas e voltam a crescer    
 -Botões de configuração e escolha de personagens adicionados no lobby, porem, sem funcionalidades no momento
