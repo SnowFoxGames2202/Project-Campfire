@@ -25,3 +25,4 @@
 -Animação para Bolsa adicionado    
 -Agora as arvores não desaparecem depois de cortadas e voltam a crescer    
 -Botões de configuração e escolha de personagens adicionados no lobby, porem, sem funcionalidades no momento
+-Foi adicionado descrição aos itens
