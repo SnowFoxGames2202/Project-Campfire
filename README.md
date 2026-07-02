@@ -27,3 +27,7 @@
 -Botões de configuração e escolha de personagens adicionados no lobby, porem, sem funcionalidades no momento    
 -Foi adicionado descrição aos itens    
 -Quantidade de sanidade e energia adicionados nas barras    
+## Beta 0.3    
+-Correções de Bugs    
+-Seleção de personagem funcional    
+-3 personagens adicionados, Jason, Samantha e Tina
