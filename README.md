@@ -30,4 +30,8 @@
 ## Beta 0.3    
 -Correções de Bugs    
 -Seleção de personagem funcional    
--3 personagens adicionados, Jason, Samantha e Tina
+-3 personagens adicionados, Jason, Samantha e Tina    
+-Itens adicionados:
+* Dinheiro
+
+-Sprites e animações dos personagens adicionados
