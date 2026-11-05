@@ -9,7 +9,9 @@
 -Nickname funcionando  
 -Lanterna agora precisa de estar com ela na hotbar e precionar F para funcionar  
 -Opções de dicas para ver teclas usaveis adicionado  
--Um breve mapa adicionado  
+-Um breve mapa adicionado 
+<img src="./imagens/MapBack.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+
 -Inventario na barraca para guardar itens adicionado, porem sem funcionalidade ainda  
 -Fogueira agora é alimentada apenas chegando perto dela e precionando a tecla 1 ou 2 do teclado numerico superior  
 -Chat adicionado durante a partida
@@ -29,7 +31,7 @@
     
 -Maquina de lanches e refrigerante adicionado    
 -Botão para sair do lobby adicionado    
--Agora o player só consegue correr com ai de 20 de energya e nn consegue andar se estiver com 0 de energia    
+-Agora o player só consegue correr com mais de 20 de energya e não consegue andar se estiver com 0 de energia    
 -Tela de Morte adicionando    
 -Agora o player morre se a sanidade chegar a 0    
 -Animação para Bolsa adicionado    
