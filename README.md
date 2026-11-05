@@ -36,8 +36,7 @@
 -3 personagens adicionados, Jason, Samantha e Tina   
 
 ### Jason   
-![Descrição da imagem](./imagens/Jason.png)
-<img src="./imagens/Jason.png" width="900">
+<img src="./imagens/Jason.png" width="400">
 
 -Itens adicionados:
 * Dinheiro
