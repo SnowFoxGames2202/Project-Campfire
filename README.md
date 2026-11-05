@@ -16,7 +16,7 @@
 -Fogueira agora é alimentada apenas chegando perto dela e precionando a tecla 1 ou 2 do teclado numerico superior  
 -Chat adicionado durante a partida
 ## Beta 0.2
--Correções de bugs da verção anterior    
+-Correções de bugs da versão anterior    
 -Sistema de cheats simples adicionado    
 -Agora é possivel enviar as mensagens precionando Enter    
 -Itens adicionado:    
@@ -29,7 +29,9 @@
 * Isqueiro  
 <img src="./imagens/Lighter.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">
     
--Maquina de lanches e refrigerante adicionado    
+-Maquina de lanches e refrigerante adicionado   
+<img src="./imagens/SnackMachine.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+
 -Botão para sair do lobby adicionado    
 -Agora o player só consegue correr com mais de 20 de energya e não consegue andar se estiver com 0 de energia    
 -Tela de Morte adicionando    
