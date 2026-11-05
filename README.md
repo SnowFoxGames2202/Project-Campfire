@@ -38,6 +38,10 @@
 ### Jason   
 <img src="./imagens/Jason.gif" width="400" style="image-rendering: pixelated; image-rendering: crisp-edges;">
 
+### Samantha
+
+### Tina
+
 -Itens adicionados:
 * Dinheiro
 
