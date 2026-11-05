@@ -37,6 +37,7 @@
 
 ### Jason   
 ![Descrição da imagem](./imagens/Jason.png)
+<img src="./imagens/Jason.png" width="900">
 
 -Itens adicionados:
 * Dinheiro
