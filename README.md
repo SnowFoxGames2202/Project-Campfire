@@ -25,7 +25,7 @@
 <img src="./imagens/CerealBar.png" width="400" style="image-rendering: pixelated; image-rendering: crisp-edges;">
 
 * Isqueiro  
-<img src="./imagens/Laghter.png" width="400" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+<img src="./imagens/Lighter.png" width="400" style="image-rendering: pixelated; image-rendering: crisp-edges;">
     
 -Maquina de lanches e refrigerante adicionado    
 -Botão para sair do lobby adicionado    
