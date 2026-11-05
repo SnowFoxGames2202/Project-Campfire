@@ -56,4 +56,5 @@
 -Itens adicionados:
 * Dinheiro
 
--Sprites e animações dos personagens adicionados
+-Sprites e animações dos personagens adicionados    
+-Modificações no menu inicial, como nova animação inicial
