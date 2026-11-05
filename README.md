@@ -1,6 +1,6 @@
 # Campfire  
 
-![Descrição da imagem](./imagens/Acampamento Noturno na Floresta.png)
+![Descrição da imagem](./imagens/Background.png)
 
 ## Beta 0.1  
 -Tela de load criado  
