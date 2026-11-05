@@ -19,13 +19,13 @@
 -Agora é possivel enviar as mensagens precionando Enter    
 -Itens adicionado:    
 * Lanche(salgadinho),
-<img src="./imagens/Snack.png" width="400" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+<img src="./imagens/Snack.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">
 
 * Barra de cereal,  
-<img src="./imagens/CerealBar.png" width="400" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+<img src="./imagens/CerealBar.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">
 
 * Isqueiro  
-<img src="./imagens/Lighter.png" width="400" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+<img src="./imagens/Lighter.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">
     
 -Maquina de lanches e refrigerante adicionado    
 -Botão para sair do lobby adicionado    
