@@ -19,9 +19,11 @@
 -Agora é possivel enviar as mensagens precionando Enter    
 -Itens adicionado:    
 * Lanche(salgadinho),
-<img src="./imagens/Snack.gif" width="400" style="image-rendering: pixelated; image-rendering: crisp-edges;">    
+<img src="./imagens/Snack.gif" width="400" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+
 * Barra de cereal,  
 <img src="./imagens/CerealBar.gif" width="400" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+
 * Isqueiro  
 <img src="./imagens/Laghter.gif" width="400" style="image-rendering: pixelated; image-rendering: crisp-edges;">
     
