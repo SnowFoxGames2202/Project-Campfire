@@ -50,6 +50,7 @@
 <img src="./imagens/Jason.gif" width="400" style="image-rendering: pixelated; image-rendering: crisp-edges;">
 
 ### Samantha
+<img src="./imagens/Tina.gif" width="400" style="image-rendering: pixelated; image-rendering: crisp-edges;">
 
 ### Tina
 
