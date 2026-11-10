@@ -53,6 +53,7 @@
 <img src="./imagens/Tina.gif" width="400" style="image-rendering: pixelated; image-rendering: crisp-edges;">
 
 ### Tina
+<img src="./imagens/Tina.gif" width="400" style="image-rendering: pixelated; image-rendering: crisp-edges;">
 
 -Itens adicionados:
 * Dinheiro
