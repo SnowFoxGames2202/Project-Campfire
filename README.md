@@ -2,7 +2,20 @@
 
 ![Descrição da imagem](./imagens/Background.png)
 
-### Itens já adicionados:
+### Itens:
+
+Axe(Machado)    
+Batery(Bateria) 
+Cereal Bar(Barra de Cereal) 
+Energy Drink(Energetico)    
+Flash(Lanterna) 
+Lighter(Esqueiro)   
+Map(Mapa)   
+Money(Dinheiro) 
+Remedy(Remedio) 
+Snack(Lanche/Salgadinho)    
+Stick(Graveto)  
+Log(Tronco)
 
 ## Beta 0.1  
 -Tela de load criado  
