@@ -41,7 +41,7 @@ Ajuda a se localizar no Acampamento.
 
 -Money(Dinheiro)     
 <img src="./imagens/Money.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">       
-Descrição:
+Descrição:  
 Pode ser usado como combustivel para a Fogueira ou comprar coisas na Maquina de Lanches.
 
 -Remedy(Remedio)     
@@ -56,7 +56,7 @@ Aumenta a Sanidade do Player em 10 pontos.
 
 -Stick(Graveto)      
 <img src="./imagens/Stick.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">       
-Descrição:
+Descrição:  
 Serve como combustivel para a Fogueira aumentando um pouco sua durabilidade.
 
 -Log(Tronco)     
