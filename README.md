@@ -5,62 +5,62 @@
 ### Itens:
 
 -Axe(Machado)       
-<img src="./imagens/Axe.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+<img src="./imagens/Axe.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">     
 Descrição:  
 Item usado para cortar arvores.
 
 -Batery(Bateria)     
-<img src="./imagens/Batery.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+<img src="./imagens/Batery.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">      
 Descrição:  
 Item usado para recarregar a lanterna.
 
 -Cereal Bar(Barra de Cereal)     
-<img src="./imagens/CerealBar.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+<img src="./imagens/CerealBar.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">       
 Descrição:  
 A Barra de Careal aumenta a Energy e a Sanidade do Player em 5 pontos.
 
 -Energy Drink(Energetico)    
-<img src="./imagens/EnergyDrink.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+<img src="./imagens/EnergyDrink.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">     
 Descrição:  
 Aumanta a Energia do Player em 25 pontos.
 
 -Flash(Lanterna)     
-<img src="./imagens/Lantern.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+<img src="./imagens/Lantern.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">     
 Descrição:  
 Ajuda a iluminar os locais escuros.
 
 -Lighter(Esqueiro)   
-<img src="./imagens/Lighter.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+<img src="./imagens/Lighter.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">     
 Descrição:  
 Item usado para acender a Fogueira.
 
 -Map(Mapa)   
-<img src="./imagens/Map.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+<img src="./imagens/Map.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">     
 Descrição:  
 Ajuda a se localizar no Acampamento.
 
 -Money(Dinheiro)     
-<img src="./imagens/Money.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+<img src="./imagens/Money.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">       
 Descrição:
 Pode ser usado como combustivel para a Fogueira ou comprar coisas na Maquina de Lanches.
 
 -Remedy(Remedio)     
-<img src="./imagens/Remedy.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+<img src="./imagens/Remedy.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">      
 Descrição:  
 Aumenta a Sanidade do player em 25 pontos.
 
 -Snack(Lanche/Salgadinho)    
-<img src="./imagens/Snack.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+<img src="./imagens/Snack.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">       
 Descrição:
 Aumenta a Sanidade do Player em 10 pontos.
 
 -Stick(Graveto)      
-<img src="./imagens/Stick.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+<img src="./imagens/Stick.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">       
 Descrição:
 Serve como combustivel para a Fogueira aumentando um pouco sua durabilidade.
 
 -Log(Tronco)     
-<img src="./imagens/Log.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">
+<img src="./imagens/Log.png" width="100" style="image-rendering: pixelated; image-rendering: crisp-edges;">     
 Descrição:  
 Serve como combustivel para a Fogueira aumentando ao maximo sua durabilidade.
 
