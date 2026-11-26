@@ -5,17 +5,17 @@
 ### Itens:
 
 Axe(Machado)    
-Batery(Bateria) 
-Cereal Bar(Barra de Cereal) 
+Batery(Bateria)     
+Cereal Bar(Barra de Cereal)     
 Energy Drink(Energetico)    
-Flash(Lanterna) 
+Flash(Lanterna)     
 Lighter(Esqueiro)   
 Map(Mapa)   
-Money(Dinheiro) 
-Remedy(Remedio) 
+Money(Dinheiro)     
+Remedy(Remedio)     
 Snack(Lanche/Salgadinho)    
-Stick(Graveto)  
-Log(Tronco)
+Stick(Graveto)      
+Log(Tronco)     
 
 ## Beta 0.1  
 -Tela de load criado  
